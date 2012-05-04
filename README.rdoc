@@ -1,0 +1,7 @@
+= Refined watchers list
+
+Refine watchers list
+
+= Author
+Turkin Ilya (iturkin@syntellect.ru). 
+
